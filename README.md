@@ -14,22 +14,17 @@ Tableau for data visualization & dashboard building
 
 Kaggle for dataset
 
-GitHub for version control and sharing
+GitHub for version control andaring
 
 ## Dashboard KPIs : - 
-The Tableau dashboard summarizes multiple KPIs extracted from the dataset:
+The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 
 #### Top Grossing Genre :-  ##### Which movie genre generated the highest gross revenue overall?
 #### Most Frequent Director :-  ##### Which director has directed the most movies in the Top 1000 IMDb list?
+#### Top Rated Actor :- Which actor/actress has the highest average IMDb rating across their movies?
+#### Certification Breakdown :- How are movies categorized based on certification (A, UA, U, etc.)?
 
-
-Top Rated Actor
-Which actor/actress has the highest average IMDb rating across their movies?
-
-Certification Breakdown
-How are movies categorized based on certification (A, UA, U, etc.)?
-
- Dashboard Preview: - <a href="https://github.com/berlin007x/-IMDb-Movie-Insights-Dashboard-SQL-Analysis/blob/main/Dashboard/imdb_analysis_dashboard.PNG"> Dashboard Preview:</a>
+#### Dashboard Preview: - <a href="https://github.com/berlin007x/-IMDb-Movie-Insights-Dashboard-SQL-Analysis/blob/main/Dashboard/imdb_analysis_dashboard.PNG"> Dashboard Preview:</a>
 
 
 📜 SQL Analysis Topics
