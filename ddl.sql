@@ -1,7 +1,5 @@
 
 
-
-
 drop table if exists imdb_top_movies;
 create table if not exists imdb_top_movies
 (
@@ -24,3 +22,4 @@ create table if not exists imdb_top_movies
 );
 
 select * from imdb_top_movies;
+
