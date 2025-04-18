@@ -3,8 +3,8 @@
 
 ## Dataset
 This project uses the publicly available IMDb Top 1000 dataset from Kaggle, which includes:
-- <a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows">IMDB Movies Dataset</a>
-#### Kaggle for dataset
+- <a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows">IMDB Movies Dataset</a>   #### Kaggle for dataset
+
 
  
 
