@@ -1,27 +1,12 @@
 # IMDb-Movie-Insights-Dashboard-SQL-Analysis
  Repository Description This project involves deep analysis of the Top 1000 IMDb Movies and TV Shows using SQL and Tableau. The dataset was explored using PostgreSQL (via pgAdmin), various KPIs were extracted, and a dynamic dashboard was created using Tableau to uncover interesting insights related to ratings, genres, directors, and actors.
 
-# Dataset
+## Dataset
 This project uses the publicly available IMDb Top 1000 dataset from Kaggle, which includes:
 
-"poster_link"
-"series_title"
-"released_year"
-"certificate"
-"runtime"
-"genre"
-"imdb_rating"
-"overview"
-"meta_score"
-"director"
-"star1"
-"star2"
-"star3"
-"star4"
-"no_of_votes"
-"gross"
 
-📎 Click here to view/download the dataset on Kaggle
+
+📎 Click here to view/download the dataset   - <a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows">IMDB Movies Dataset</a>
 
 🔍 Tools & Technologies
 PostgreSQL (via pgAdmin) for data querying and analysis
@@ -32,7 +17,7 @@ Kaggle for dataset
 
 GitHub for version control and sharing
 
-📊 Dashboard KPIs
+ Dashboard KPIs : - 
 The Tableau dashboard summarizes multiple KPIs extracted from the dataset:
 
 Top Grossing Genre
@@ -47,7 +32,7 @@ Which actor/actress has the highest average IMDb rating across their movies?
 Certification Breakdown
 How are movies categorized based on certification (A, UA, U, etc.)?
 
-🖼️ Dashboard Preview:
+ Dashboard Preview:
 
 📜 SQL Analysis Topics
 Some of the key questions answered using SQL:
