@@ -38,7 +38,7 @@ The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 #### Finding non-numeric anomalies in release year
 #### Batman movie not directed by Nolan
 #### Even/Odd year movie release pattern for Christian Bale
-📄 All SQL queries are available here:
+📄 All SQL queries are available here: - < a href="https://github.com/berlin007x/-IMDb-Movie-Insights-Dashboard-SQL-Analysis/blob/main/SQL_queries/imdb_analysis_queries.sql">sql_queries</a>
 📁 sql_queries/imdb_analysis_queries.sql
 
 📌 Conclusion
