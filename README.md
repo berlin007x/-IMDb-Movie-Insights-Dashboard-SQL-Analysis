@@ -19,11 +19,11 @@ GitHub for version control and sharing
 ## Dashboard KPIs : - 
 The Tableau dashboard summarizes multiple KPIs extracted from the dataset:
 
-#### Top Grossing Genre
-Which movie genre generated the highest gross revenue overall?
+#### Top Grossing Genre :- ##### Which movie genre generated the highest gross revenue overall?
 
-Most Frequent Director
-Which director has directed the most movies in the Top 1000 IMDb list?
+
+#### Most Frequent Director :- ##### Which director has directed the most movies in the Top 1000 IMDb list?
+
 
 Top Rated Actor
 Which actor/actress has the highest average IMDb rating across their movies?
