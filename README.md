@@ -28,7 +28,7 @@ The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 
 
 ## SQL Analysis Topics
-Some of the key questions answered using SQL:
+###Some of the key questions answered using SQL:
 
 Count of Drama movies
 
