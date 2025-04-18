@@ -1,7 +1,6 @@
 
---- hello
 
-1) Fetch all data from imdb table 
+#1) Fetch all data from imdb table 
 2) Fetch only the name and release year for all movies.
 3) Fetch the name, release year and imdb rating of movies which are UA certified.
 4) Fetch the name and genre of movies which are UA certified and have a Imdb rating of over 8.
