@@ -17,8 +17,8 @@ The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 #### Dashboard Preview : - <a href="https://github.com/berlin007x/-IMDb-Movie-Insights-Dashboard-SQL-Analysis/blob/main/Dashboard/imdb_analysis_dashboard.PNG"> imdb_analysis_dashboard</a>
 
 
-## SQL Analysis Topics
-### Some of the key questions answered using SQL:-
+## SQL Analysis Topics :-
+### Some of the key questions answered using SQL
 
 #### Count of Drama movies
 #### Movies directed by Spielberg, Nolan, Rajkumar Hirani, Tarantino
