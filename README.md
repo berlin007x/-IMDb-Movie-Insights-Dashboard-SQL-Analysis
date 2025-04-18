@@ -24,7 +24,7 @@ The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 #### Top Rated Actor :- Which actor/actress has the highest average IMDb rating across their movies?
 #### Certification Breakdown :- How are movies categorized based on certification (A, UA, U, etc.)?
 
-#### Dashboard Preview: - <a href="https://github.com/berlin007x/-IMDb-Movie-Insights-Dashboard-SQL-Analysis/blob/main/Dashboard/imdb_analysis_dashboard.PNG"> Dashboard Preview:</a>
+#### Dashboard Preview: - <a href="https://github.com/berlin007x/-IMDb-Movie-Insights-Dashboard-SQL-Analysis/blob/main/Dashboard/imdb_analysis_dashboard.PNG"> imdb_analysis_dashboard</a>
 
 
 ## SQL Analysis Topics
