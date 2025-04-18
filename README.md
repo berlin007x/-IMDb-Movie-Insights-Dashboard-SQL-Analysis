@@ -4,16 +4,10 @@
 ## Dataset
 This project uses the publicly available IMDb Top 1000 dataset from Kaggle, which includes:
 - <a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows">IMDB Movies Dataset</a>
-Kaggle for dataset
-
-
- 
+Kaggle dataset
 
 #### Tools & Technologies :- PostgreSQL (via pgAdmin) for data querying and analysis
 #### Tableau for data visualization & dashboard building
-Kaggle for dataset
-
-
 ## Dashboard KPIs : - 
 The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 
