@@ -6,7 +6,7 @@ This project uses the publicly available IMDb Top 1000 dataset from Kaggle : - <
 
 #### Tools & Technologies :- PostgreSQL (via pgAdmin) for data querying and analysis
 #### Tableau for data visualization & dashboard building
-## Dashboard KPIs : - 
+## Dashboard KPIs :- 
 The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 
 #### Top Grossing Genre :- Which movie genre generated the highest gross revenue overall?
@@ -18,7 +18,7 @@ The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 
 
 ## SQL Analysis Topics
-### Some of the key questions answered using SQL:
+### Some of the key questions answered using SQL:-
 
 #### Count of Drama movies
 #### Movies directed by Spielberg, Nolan, Rajkumar Hirani, Tarantino
