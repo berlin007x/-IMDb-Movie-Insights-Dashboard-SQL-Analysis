@@ -32,7 +32,7 @@ The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 #### All SQL queries are available here:       - <a href="https://github.com/berlin007x/-IMDb-Movie-Insights-Dashboard-SQL-Analysis/blob/main/SQL_queries/imdb_analysis_queries.sql"> sql_queries</a>
 
 
-## Conclusion
+## Conclusion :-
 Drama emerged as the most dominant genre in the dataset.
 
 Christopher Nolan and Steven Spielberg are among the most frequently featured directors.
