@@ -16,7 +16,7 @@ Kaggle for dataset
 
 GitHub for version control and sharing
 
- Dashboard KPIs : - 
+## Dashboard KPIs : - 
 The Tableau dashboard summarizes multiple KPIs extracted from the dataset:
 
 Top Grossing Genre
