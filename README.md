@@ -2,9 +2,7 @@
  Repository Description This project involves deep analysis of the Top 1000 IMDb Movies and TV Shows using SQL and Tableau. The dataset was explored using PostgreSQL (via pgAdmin), various KPIs were extracted, and a dynamic dashboard was created using Tableau to uncover interesting insights related to ratings, genres, directors, and actors.
 
 ## Dataset
-This project uses the publicly available IMDb Top 1000 dataset from Kaggle, which includes:
-- <a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows">IMDB Movies Dataset</a>
-Kaggle dataset
+This project uses the publicly available IMDb Top 1000 dataset from Kaggle : - <a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows">IMDB Movies Dataset</a>
 
 #### Tools & Technologies :- PostgreSQL (via pgAdmin) for data querying and analysis
 #### Tableau for data visualization & dashboard building
