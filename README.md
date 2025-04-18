@@ -7,7 +7,7 @@ This project uses the publicly available IMDb Top 1000 dataset from Kaggle, whic
 
  
 
-🔍 Tools & Technologies
+#### Tools & Technologies
 PostgreSQL (via pgAdmin) for data querying and analysis
 
 Tableau for data visualization & dashboard building
