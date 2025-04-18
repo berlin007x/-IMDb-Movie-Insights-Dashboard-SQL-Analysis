@@ -4,17 +4,22 @@
 📂 Dataset
 This project uses the publicly available IMDb Top 1000 dataset from Kaggle, which includes:
 
-Title
-
-Genre
-
-Director & Actors
-
-Gross collection
-
-Runtime
-
-IMDb & Meta Score Ratings
+"poster_link"
+"series_title"
+"released_year"
+"certificate"
+"runtime"
+"genre"
+"imdb_rating"
+"overview"
+"meta_score"
+"director"
+"star1"
+"star2"
+"star3"
+"star4"
+"no_of_votes"
+"gross"
 
 📎 Click here to view/download the dataset on Kaggle
 
