@@ -22,7 +22,6 @@
 17) Display all the movies acted by Tom Cruise in the order of their release. Consider only movies which have a meta score.
 18) Segregate all the Drama and Comedy movies released in the last 10 years as per their runtime. Movies shorter than 1 hour should be termed as short film. Movies longer than 2 hrs should be termed as longer movies. All others can be termed as Good watch time.
 19) Write a query to display the "Christian Bale" movies which released in odd year and even year. Sort the data as per Odd year at the top.
-20) Re-write problem #18 without using case statement.
 
 
 
@@ -370,65 +369,4 @@ WHERE
 	)
 ORDER BY
 	ODD_OR_EVEN DESC;
-
-20) Re-write problem #18 without using case statement.
-
-SELECT
-	SERIES_TITLE AS MOVIE_NAME,
-	'Short film' AS CATEGORY,
-	ROUND(REPLACE(RUNTIME, ' min', '')::DECIMAL / 60, 2) AS RUNTIME
-FROM
-	IMDB_TOP_MOVIES
-WHERE
-	RELEASED_YEAR <> 'PG'
-	AND EXTRACT(
-		YEAR
-		FROM
-			CURRENT_DATE
-	) - RELEASED_YEAR::INT <= 10
-	AND (
-		UPPER(GENRE) LIKE '%DRAMA%'
-		OR LOWER(GENRE) LIKE '%comedy%'
-	)
-	AND ROUND(REPLACE(RUNTIME, ' min', '')::DECIMAL / 60, 2) < 1
-UNION ALL
-SELECT
-	SERIES_TITLE AS MOVIE_NAME,
-	'Longer Movies' AS CATEGORY,
-	ROUND(REPLACE(RUNTIME, ' min', '')::DECIMAL / 60, 2) AS RUNTIME
-FROM
-	IMDB_TOP_MOVIES
-WHERE
-	RELEASED_YEAR <> 'PG'
-	AND EXTRACT(
-		YEAR
-		FROM
-			CURRENT_DATE
-	) - RELEASED_YEAR::INT <= 10
-	AND (
-		UPPER(GENRE) LIKE '%DRAMA%'
-		OR LOWER(GENRE) LIKE '%comedy%'
-	)
-	AND ROUND(REPLACE(RUNTIME, ' min', '')::DECIMAL / 60, 2) > 2
-UNION ALL
-SELECT
-	SERIES_TITLE AS MOVIE_NAME,
-	'Good watch time' AS CATEGORY,
-	ROUND(REPLACE(RUNTIME, ' min', '')::DECIMAL / 60, 2) AS RUNTIME
-FROM
-	IMDB_TOP_MOVIES
-WHERE
-	RELEASED_YEAR <> 'PG'
-	AND EXTRACT(
-		YEAR
-		FROM
-			CURRENT_DATE
-	) - RELEASED_YEAR::INT <= 10
-	AND (
-		UPPER(GENRE) LIKE '%DRAMA%'
-		OR LOWER(GENRE) LIKE '%comedy%'
-	)
-	AND ROUND(REPLACE(RUNTIME, ' min', '')::DECIMAL / 60, 2) BETWEEN 1 AND 2
-ORDER BY
-	CATEGORY;
 
