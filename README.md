@@ -31,7 +31,8 @@ Which actor/actress has the highest average IMDb rating across their movies?
 Certification Breakdown
 How are movies categorized based on certification (A, UA, U, etc.)?
 
- Dashboard Preview:
+ Dashboard Preview: - <a href="https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows"> Dashboard Preview:</a>
+
 
 📜 SQL Analysis Topics
 Some of the key questions answered using SQL:
