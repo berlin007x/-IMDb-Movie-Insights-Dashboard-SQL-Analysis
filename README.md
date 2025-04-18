@@ -30,22 +30,14 @@ The Tableau dashboard sum shmarizes multiple KPIs extracted from the dataset:
 ## SQL Analysis Topics
 ### Some of the key questions answered using SQL:
 
-Count of Drama movies
-
-Movies directed by Spielberg, Nolan, Rajkumar Hirani, Tarantino
-
-Highest & Lowest IMDb ratings
-
-Total gross from Aamir Khan’s movies
-
-Genre-wise movie duration categorization
-
-Finding non-numeric anomalies in release year
-
-Batman movie not directed by Nolan
-
-Even/Odd year movie release pattern for Christian Bale
-
+#### Count of Drama movies
+#### Movies directed by Spielberg, Nolan, Rajkumar Hirani, Tarantino
+#### Highest & Lowest IMDb ratings
+#### Total gross from Aamir Khan’s movies
+#### Genre-wise movie duration categorization
+#### Finding non-numeric anomalies in release year
+#### Batman movie not directed by Nolan
+#### Even/Odd year movie release pattern for Christian Bale
 📄 All SQL queries are available here:
 📁 sql_queries/imdb_analysis_queries.sql
 
